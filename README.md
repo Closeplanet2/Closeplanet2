@@ -1,7 +1,7 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
@@ -44,24 +44,20 @@ Sunday                   72 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   7 hrs 48 mins       █████████████████████████   99.27 % 
-Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   9 hrs 9 mins        █████████████████████████   99.53 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 49 mins       █████████████████████████   99.57 % 
-IntelliJ                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+PyCharm                  9 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-YugiohForbiddenMemoryBot 7 hrs 46 mins       █████████████████████████   98.83 % 
-YugiohNightmareTroubadour3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-PandaMatchmakingCore     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-LetsRecreateHypixel      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+YugiohForbiddenMemoryBot 9 hrs 8 mins        █████████████████████████   99.36 % 
+YugiohNightmareTroubadour3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 MTG_Deck_Gen             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GhostOfSaltMarshDiscordBo0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -81,5 +77,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2023 18:39:09 UTC
+ Last Updated on 14/10/2023 18:37:26 UTC
 <!--END_SECTION:waka-->
