@@ -1,7 +1,7 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
@@ -44,17 +44,17 @@ Sunday                   75 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   3 hrs 50 mins       █████████████████████████   99.33 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Python                   5 hrs 27 mins       █████████████████████████   99.48 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 51 mins       █████████████████████████   100.00 % 
+PyCharm                  5 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-YugiohForbiddenMemoryBot 3 hrs 51 mins       █████████████████████████   100.00 % 
+YugiohForbiddenMemoryBot 5 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +74,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2023 18:39:56 UTC
+ Last Updated on 17/10/2023 18:39:13 UTC
 <!--END_SECTION:waka-->
