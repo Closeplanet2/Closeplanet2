@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,17 +44,17 @@ Sunday                   75 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   5 hrs 46 mins       █████████████████████████   99.51 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Python                   5 hrs 7 mins        █████████████████████████   99.54 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 48 mins       █████████████████████████   100.00 % 
+PyCharm                  5 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-YugiohForbiddenMemoryBot 5 hrs 48 mins       █████████████████████████   100.00 % 
+YugiohForbiddenMemoryBot 5 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +74,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2023 18:38:44 UTC
+ Last Updated on 20/10/2023 18:37:34 UTC
 <!--END_SECTION:waka-->
