@@ -1,13 +1,15 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 430 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,21 +44,21 @@ Sunday                   84 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   10 hrs 27 mins      ██████████████████████░░░   89.92 % 
-GitIgnore file           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-RPMSpec                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Ezhil                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Python                   9 hrs 9 mins        ██████████████████████░░░   88.67 % 
+GitIgnore file           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+RPMSpec                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Ezhil                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-PyCharm                  11 hrs 38 mins      █████████████████████████   100.00 % 
+PyCharm                  10 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PhasIncenseIndicator     6 hrs 37 mins       ██████████████░░░░░░░░░░░   56.95 % 
-YugiohForbiddenMemoryBot 5 hrs               ███████████░░░░░░░░░░░░░░   43.05 % 
+PhasIncenseIndicator     6 hrs 37 mins       ████████████████░░░░░░░░░   64.16 % 
+YugiohForbiddenMemoryBot 3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.84 % 
 
 💻 Operating System: 
-Windows                  11 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,5 +78,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2023 18:38:09 UTC
+ Last Updated on 24/10/2023 18:38:48 UTC
 <!--END_SECTION:waka-->
