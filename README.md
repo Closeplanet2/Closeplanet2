@@ -1,15 +1,15 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.0 MB Used in GitHub's Storage 
+> 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 438 Contributions in the Year 2023
+> 🏆 440 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,21 +20,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-🌆 Daytime                220 commits         ██████████░░░░░░░░░░░░░░░   38.39 % 
-🌃 Evening                224 commits         ██████████░░░░░░░░░░░░░░░   39.09 % 
-🌙 Night                  112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+🌆 Daytime                221 commits         ██████████░░░░░░░░░░░░░░░   38.43 % 
+🌃 Evening                225 commits         ██████████░░░░░░░░░░░░░░░   39.13 % 
+🌙 Night                  112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Monday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 Tuesday                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Wednesday                102 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Thursday                 163 commits         ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-Friday                   173 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
-Saturday                 26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Sunday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Wednesday                103 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Thursday                 164 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Friday                   173 commits         ████████░░░░░░░░░░░░░░░░░   30.09 % 
+Saturday                 26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Sunday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 ```
 
 
@@ -44,16 +44,16 @@ Sunday                   84 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RealmCraftForge          2 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +73,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2023 18:38:30 UTC
+ Last Updated on 02/11/2023 18:38:20 UTC
 <!--END_SECTION:waka-->
