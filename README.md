@@ -1,13 +1,15 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 440 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,19 +44,19 @@ Sunday                   84 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       6 hrs 6 mins        █████████████████████████   99.57 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+C#                       7 hrs 43 mins       █████████████████████████   99.66 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Rider                    6 hrs 6 mins        █████████████████████████   99.57 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Rider                    7 hrs 43 mins       █████████████████████████   99.66 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🐱‍💻 Projects: 
-RealmCraftForge          6 hrs 6 mins        █████████████████████████   99.57 % 
-YugiohForbiddenMemoryBot 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+RealmCraftForge          7 hrs 43 mins       █████████████████████████   99.66 % 
+YugiohForbiddenMemoryBot 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +76,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2023 18:38:20 UTC
+ Last Updated on 07/11/2023 18:38:08 UTC
 <!--END_SECTION:waka-->
