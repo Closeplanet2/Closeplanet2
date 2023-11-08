@@ -1,7 +1,7 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -44,19 +44,22 @@ Sunday                   84 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       7 hrs 43 mins       █████████████████████████   99.66 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+C#                       9 hrs 56 mins       █████████████████████████   98.20 % 
+GitIgnore file           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Rider                    7 hrs 43 mins       █████████████████████████   99.66 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Rider                    10 hrs 5 mins       █████████████████████████   99.74 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-RealmCraftForge          7 hrs 43 mins       █████████████████████████   99.66 % 
-YugiohForbiddenMemoryBot 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+RealmCraftForge          7 hrs 43 mins       ███████████████████░░░░░░   76.37 % 
+Smart Stud Roundabout    2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+YugiohForbiddenMemoryBot 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  7 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,5 +79,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2023 18:38:08 UTC
+ Last Updated on 08/11/2023 18:38:05 UTC
 <!--END_SECTION:waka-->
