@@ -1,9 +1,9 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,20 +44,20 @@ Sunday                   84 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       22 hrs 59 mins      █████████████████████████   99.71 % 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+C#                       24 hrs 39 mins      █████████████████████████   99.73 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Rider                    23 hrs 3 mins       █████████████████████████   99.99 % 
+Rider                    24 hrs 43 mins      █████████████████████████   99.99 % 
 IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-RealmCraftForge          23 hrs 3 mins       █████████████████████████   99.99 % 
+RealmCraftForge          24 hrs 43 mins      █████████████████████████   99.99 % 
 PandaMatchmakingCore     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  23 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  24 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -77,5 +77,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2023 18:38:08 UTC
+ Last Updated on 16/11/2023 18:38:50 UTC
 <!--END_SECTION:waka-->
