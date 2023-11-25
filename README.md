@@ -1,13 +1,15 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 440 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,5 +75,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2023 18:37:59 UTC
+ Last Updated on 25/11/2023 18:37:33 UTC
 <!--END_SECTION:waka-->
