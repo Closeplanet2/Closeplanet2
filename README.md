@@ -1,7 +1,7 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -44,19 +44,19 @@ Sunday                   84 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       23 hrs 45 mins      █████████████████████████   99.61 % 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+C#                       25 hrs 43 mins      █████████████████████████   98.79 % 
+ShaderLab                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 UnityYaml                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Rider                    23 hrs 50 mins      █████████████████████████   100.00 % 
+Rider                    26 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Realm-Forge              23 hrs 45 mins      █████████████████████████   99.62 % 
-CharacterBuilder         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Realm-Forge              25 hrs 56 mins      █████████████████████████   99.65 % 
+CharacterBuilder         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Windows                  23 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -76,5 +76,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2023 18:39:19 UTC
+ Last Updated on 08/12/2023 18:38:44 UTC
 <!--END_SECTION:waka-->
