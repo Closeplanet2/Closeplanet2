@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,5 +84,5 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2023 18:37:45 UTC
+ Last Updated on 20/12/2023 18:38:25 UTC
 <!--END_SECTION:waka-->
