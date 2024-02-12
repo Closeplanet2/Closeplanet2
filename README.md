@@ -1,7 +1,7 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,21 +44,21 @@ Sunday                   76 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     5 hrs 17 mins       █████████████████████████   99.86 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Java                     5 hrs 7 mins        █████████████████████████   99.96 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ                 5 hrs 17 mins       █████████████████████████   100.00 % 
+IntelliJ                 5 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PulseItemsEntities       5 hrs 15 mins       █████████████████████████   99.27 % 
-PortfolioCore            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-PulseCommands            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-PulseCore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+PulseItemsEntities       5 hrs 2 mins        █████████████████████████   98.13 % 
+PortfolioCore            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+PulseCommands            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+PulseCore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  5 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -78,5 +78,5 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2024 18:37:19 UTC
+ Last Updated on 12/02/2024 18:37:26 UTC
 <!--END_SECTION:waka-->
