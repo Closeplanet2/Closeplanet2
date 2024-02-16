@@ -1,13 +1,15 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 25 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,22 +44,22 @@ Sunday                   76 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     6 hrs 1 min         ████████████████████████░   95.63 % 
-XML                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Java                     12 hrs 34 mins      ███████████████████████░░   90.66 % 
+XML                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 Editors: 
-IntelliJ                 6 hrs 17 mins       █████████████████████████   100.00 % 
+IntelliJ                 13 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PulseItemsEntities       4 hrs 1 min         ████████████████░░░░░░░░░   63.90 % 
-PortfolioCore            1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-DialogueAndQuest         57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-PulseCore                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+PulseItemsEntities       5 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.14 % 
+DialogueAndQuest         4 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
+PortfolioCore            2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+PulseCore                1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+PulseConfig              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Windows                  6 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -77,5 +79,5 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2024 18:37:33 UTC
+ Last Updated on 16/02/2024 18:37:42 UTC
 <!--END_SECTION:waka-->
