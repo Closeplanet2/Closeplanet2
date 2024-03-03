@@ -9,8 +9,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -83,5 +81,5 @@ Mathematica              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2024 18:37:37 UTC
+ Last Updated on 03/03/2024 18:38:02 UTC
 <!--END_SECTION:waka-->
