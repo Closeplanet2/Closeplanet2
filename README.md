@@ -1,15 +1,13 @@
 [![Closeplanet2](https://github-readme-stats.vercel.app/api?username=Closeplanet2&show_icons=true&theme=tokyonight&count_private=true)]([https://github.com/Closeplanet2])
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 32 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,11 +50,11 @@ YAML                     13 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 Rider                    13 hrs 9 mins       ██████████████░░░░░░░░░░░   57.67 % 
-IntelliJ                 8 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.19 % 
+IntelliJ                 8 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.20 % 
 PyCharm                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 🐱‍💻 Projects: 
-RedstoneDesigner         15 hrs 12 mins      █████████████████░░░░░░░░   66.73 % 
+RedstoneDesigner         15 hrs 12 mins      █████████████████░░░░░░░░   66.72 % 
 Nexuxus                  3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 NexuxusData              1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 PulseConfig              1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
@@ -83,5 +81,5 @@ Mathematica              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Closeplanet2/Closeplanet2/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2024 18:37:35 UTC
+ Last Updated on 10/03/2024 18:38:11 UTC
 <!--END_SECTION:waka-->
